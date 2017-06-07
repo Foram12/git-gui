@@ -1,1 +1,3 @@
 # git-gui
+
+Simple demo
